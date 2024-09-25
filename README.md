@@ -3,6 +3,7 @@
 - 🔭 Autonomo
 - 🌱 Estudando Typescript
 - 📫 Contate-me no email: tiberio.ferreiracs@gmail.com
+- 
 <div>
   <a href="https://github.com/tibas-ce">
   <img heigth="100px" src="https://github-readme-stats.vercel.app/api?username=tibas-ce&show_icons=true&theme=dark"/>
