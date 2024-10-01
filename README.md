@@ -1,7 +1,7 @@
 ### Olá eu sou o Tibério dos Santos Ferreira
 
 - 🔭 Autonomo
-- 🌱 Estudando T""
+- 🌱 Estudando ""
 - 📫 Contate-me no email: tiberio.ferreiracs@gmail.com
 
 <div>
