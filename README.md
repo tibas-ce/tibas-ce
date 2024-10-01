@@ -1,9 +1,8 @@
 ### Olá eu sou o Tibério dos Santos Ferreira
 
 - 🔭 Autonomo
-- 🌱 Estudando Typescript
+- 🌱 Estudando T""
 - 📫 Contate-me no email: tiberio.ferreiracs@gmail.com
-- 
 
 <div>
   <a href="https://github.com/tibas-ce">
