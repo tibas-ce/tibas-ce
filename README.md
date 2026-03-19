@@ -21,8 +21,7 @@ Pratico **TDD com RSpec** como fluxo principal de desenvolvimento
 
 ### [core_people_api](https://github.com/tibas-ce/core_people_api)
 API RESTful de gestão de RH com Rails 8, autenticação JWT, 
-autorização por roles com Pundit, cobertura de testes >90% 
-e deploy configurado com Docker + Kamal.
+autorização por roles com Pundit, cobertura de testes >90%. 
 
 ### [verdict_rules](https://github.com/tibas-ce/verdict_rules)
 Motor de regras de negócio flexível em Ruby puro, 
@@ -42,6 +41,6 @@ tiberio.ferreiracs@gmail.com
 
 <div>
   <a href="https://github.com/tibas-ce">
-  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=tibas-ce&show_icons=true&theme=dark"/>
-  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibas-ce&&theme=dark&layout=pie"/>
-<div/>
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=tibas-ce&show_icons=true&theme=dark"/>
+  <img height="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibas-ce&&theme=dark&layout=pie"/>
+</div>
