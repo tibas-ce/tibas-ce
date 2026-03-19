@@ -1,21 +1,47 @@
-# 👋 Olá, eu sou Tibério dos Santos Ferreira
+# 👋 Tibério dos Santos Ferreira
 
-Desenvolvedor Back-end Júnior com foco em **Ruby, Ruby on Rails e APIs REST**, construindo aplicações e estudando boas práticas de engenharia de software.
+Desenvolvedor Back-end com foco em **Ruby on Rails**, 
+construindo APIs REST com autenticação, autorização e 
+cobertura de testes.
 
-💡 Atualmente trabalhando em projetos que envolvem:
-- APIs em Rails com autenticação/authorization
-- Modelagem de dados e uso de ActiveRecord
-- Organização de código seguindo MVC
+Pratico **TDD com RSpec** como fluxo principal de desenvolvimento 
+— não como etapa final.
 
-📫 Contato: tiberio.ferreira@gmail.com | linkedin.com/in/tiberio-ferreira
+---
 
-🔭 Principais projetos:
-- **core_people_api** – API REST robusta em Rails  
-- **task_manager** – CRUD completo com Rails  
-- **verdict_rules** – estudo avançado de regras de negócio em Ruby
+## 🚀 Stack principal
+
+- Ruby 3.4 · Rails 8 (API mode)
+- PostgreSQL · JWT · Pundit
+- RSpec · FactoryBot · SimpleCov
+
+---
+
+## 🔭 Projetos em destaque
+
+### [core_people_api](https://github.com/tibas-ce/core_people_api)
+API RESTful de gestão de RH com Rails 8, autenticação JWT, 
+autorização por roles com Pundit, cobertura de testes >90% 
+e deploy configurado com Docker + Kamal.
+
+### [verdict_rules](https://github.com/tibas-ce/verdict_rules)
+Motor de regras de negócio flexível em Ruby puro, 
+desenvolvido com foco em extensibilidade e TDD.
+
+### [brazilian_docs](https://github.com/tibas-ce/brazilian_docs)
+Gem Ruby para validação e formatação de CPF/CNPJ usando 
+algoritmos oficiais da Receita Federal. 39 casos de teste, 
+zero dependências externas.
+
+---
+
+## 📫 Contato
+
+[linkedin.com/in/tiberio-ferreira](https://linkedin.com/in/tiberio-ferreira) · 
+tiberio.ferreiracs@gmail.com
 
 <div>
   <a href="https://github.com/tibas-ce">
-  <img heigth="100px" src="https://github-readme-stats.vercel.app/api?username=tibas-ce&show_icons=true&theme=dark"/>
-  <img heigth="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibas-ce&&theme=dark&layout=pie"/>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api?username=tibas-ce&show_icons=true&theme=dark"/>
+  <img height="100px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tibas-ce&&theme=dark&layout=pie"/>
 <div/>
